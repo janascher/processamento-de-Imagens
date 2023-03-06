@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "03-realce-de-imagens"
+version = "0.1.0"
+description = "Exercício referente a aula 03 sobre Processamento de Imagens - Visão Computacional."
+authors = ["Janaína"]
+readme = "README.md"
+packages = [{include = "03_realce_de_imagens"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+matplotlib = "3.1.1"
+opencv-python = "3.4.11.41"
+jupyter = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
