@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "04-segmentacao-de-imagens"
+version = "0.1.0"
+description = "Exercício referente a aula 04 sobre Segmentação de Imagens Digitais."
+authors = ["Janaína"]
+readme = "README.md"
+packages = [{include = "04_segmentacao_de_imagens"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+jupyter = "^1.0.0"
+matplotlib = "3.6.0"
+numpy = "1.24.0"
+opencv-python = "4.5.5.64"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
