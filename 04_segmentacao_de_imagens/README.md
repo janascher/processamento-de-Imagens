@@ -11,5 +11,5 @@ Escolher uma imagem na web ou capturada e utilizar as rotinas do **OpenCV** para
 ### Resultado 👀
 
 <div align="center">
-	<img  src="https://user-images.githubusercontent.com/79182711/223432979-3f6bd7d0-2d22-40eb-8690-2d83d246ee09.PNG"  alt="Resultado do exercício sobre realce de imagens usando histograma"  title="Resultado do exercício sobre realce de imagens usando histograma"  width="650" />
+	<img  src="https://user-images.githubusercontent.com/79182711/223432979-3f6bd7d0-2d22-40eb-8690-2d83d246ee09.PNG"  alt="Resultado do exercício sobre segmentação de imagens"  title="Resultado do exercício sobre segmentação de imagens"  width="650" />
 </div>
