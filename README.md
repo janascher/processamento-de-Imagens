@@ -8,9 +8,17 @@
 </div>  
 
 --- 
-## 🧐 Sobre
+## 🧐 Sobre o curso
 
 Repositório criado para registrar os exercícios relacionados ao curso de Processamento de Imagens - Visão Computacional, da Alpha EdTech, administrado pelo professor Paulo Marcotti.
+
+## 📚 Resolução dos exercícios
+
+Optei por utilizar o **VS Code** para realizar os exercícios do curso, apesar do professor ter sugerido o uso do **Google Collab**. 
+
+Para manter a organização e a independência, eu também optei em criar um ambiente virtual utilizando **Poetry** para cada questão. Deste modo, é possível instalar as dependências necessárias da atividade sem afetar as dependências de outras atividades.
+
+Adicionalmente, para facilitar a visualização da saída de código, decidi instalar o **Jupyter Notebook**, o que me permitiu visualizar os resultados dos exercícios de forma mais clara e intuitiva.
 
 ## 🦸 Autor  
 
