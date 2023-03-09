@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "06-detectar-faces"
+version = "0.1.0"
+description = "Exercício referente a aula 05 sobre Detectar Faces com OpenCV."
+authors = ["Janaína"]
+readme = "README.md"
+packages = [{include = "06_detectar_faces"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+jupyter = "^1.0.0"
+opencv-python = "4.5.5.64"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
